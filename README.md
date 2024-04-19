@@ -36,20 +36,7 @@ Project Structure
 php
 Copy code
 collapse-accordion-react/
-│
-├── public/               # Static assets and HTML template
-├── src/                  # React application source code
-│   ├── components/       # Reusable UI components
-│   ├── App.js            # Root component
-│   └── index.js          # Entry point
-│
-├── .gitignore            # Specifies intentionally untracked files to ignore
-├── package.json          # Project metadata and dependencies
-└── README.md             # Project documentation
-Technologies Used
-React: The core library for building the user interface.
-JavaScript/JSX: Language used for writing the application logic and UI components.
-CSS: Styling language for customizing the appearance of the accordion components.
+
 Contributing
 Contributions are welcome! If you find any bugs or have suggestions for improvement, feel free to open an issue or submit a pull request.
 
