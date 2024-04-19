@@ -1,8 +1,14 @@
 Collapse Accordion React Project
+
+
+
 Welcome to the Collapse Accordion React project! This small project is designed to help you learn about state management in React by implementing a simple collapse accordion UI component.
+
+
 
 Overview
 The Collapse Accordion React project demonstrates how to create a collapsible accordion component using React's state management. When a user clicks on an accordion item, it expands to reveal its content, while the previously expanded item collapses. This project is perfect for beginners who want to understand the basics of state management in React.
+
 
 Features
 Simple UI: Provides a straightforward UI with collapsible accordion items.
